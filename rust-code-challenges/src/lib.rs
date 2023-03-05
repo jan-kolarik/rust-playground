@@ -1,6 +1,7 @@
 pub mod cards;
 pub mod deadline;
 pub mod info;
+pub mod isbn;
 pub mod median;
 pub mod morse;
 pub mod sort;
