@@ -1,5 +1,6 @@
 pub mod cards;
 pub mod deadline;
+pub mod file_exists;
 pub mod info;
 pub mod isbn;
 pub mod median;
