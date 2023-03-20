@@ -6,6 +6,7 @@ pub mod isbn;
 pub mod median;
 pub mod morse;
 pub mod rgb;
+pub mod run_length;
 pub mod sort;
 pub mod sum_missing;
 pub mod temperature;
