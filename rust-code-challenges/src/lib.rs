@@ -11,5 +11,6 @@ pub mod run_length;
 pub mod sort;
 pub mod sum_missing;
 pub mod temperature;
+pub mod travel_planner;
 pub mod unique;
 pub mod weeks;
