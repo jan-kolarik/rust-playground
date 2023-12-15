@@ -1,4 +1,5 @@
 pub mod cards;
+pub mod cipher;
 pub mod deadline;
 pub mod file_exists;
 pub mod inconsistent_dates;
